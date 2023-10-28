@@ -2,7 +2,7 @@
 
 TP Inicial - Proyecto Profesional I / Lab. de Construcción de Software
  
-Implementación de un modelo de Machine Learning que predice si una persona corre el riesgo de sufrir un ataque cardiovascular (ACV) en función de diversos factores como edad, género, nivel de glucosa en sangre,
+Implementación de un modelo de Machine Learning que predice si una persona corre el riesgo de sufrir un ataque cerebrovascular (ACV) en función de diversos factores como edad, género, nivel de glucosa en sangre,
 tabaquismo, hipertensión, enfermedades cardíacas, tipo de residencia, tipo de trabajo e índice de masa corporal. 
 
 ### [DEMO](https://prediccionacv.streamlit.app/)
